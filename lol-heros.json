@@ -93,7 +93,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/2006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/2015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/2016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/2025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/2025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/2035.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -106,9 +107,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small2006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small2015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small2016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small2025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small2025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small2035.jpg"
 			],
-			"skinName":"狂战士|烈焰猛士 奥拉夫|冰河时代 奥拉夫|铁哥们儿 奥拉夫|五杀摇滚鼓手 奥拉夫|黑暗骑士 奥拉夫|牛扒狂战 奥拉夫|SKT T1 奥拉夫|屠龙勇士 奥拉夫|光明哨兵 奥拉夫",
+			"skinName":"狂战士|烈焰猛士 奥拉夫|冰河时代 奥拉夫|铁哥们儿 奥拉夫|五杀摇滚鼓手 奥拉夫|黑暗骑士 奥拉夫|牛扒狂战 奥拉夫|SKT T1 奥拉夫|屠龙勇士 奥拉夫|光明哨兵 奥拉夫|五杀摇滚 III：遗失的章节 奥拉夫",
 			"skins":[
 				"狂战士",
 				"烈焰猛士 奥拉夫",
@@ -119,9 +121,10 @@
 				"牛扒狂战 奥拉夫",
 				"SKT T1 奥拉夫",
 				"屠龙勇士 奥拉夫",
-				"光明哨兵 奥拉夫"
+				"光明哨兵 奥拉夫",
+				"五杀摇滚 III：遗失的章节 奥拉夫"
 			],
-			"title":"2000|2001|2002|2003|2004|2005|2006|2015|2016|2025",
+			"title":"2000|2001|2002|2003|2004|2005|2006|2015|2016|2025|2035",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big2000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big2001.jpg",
@@ -132,7 +135,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big2006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big2015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big2016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big2025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big2025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big2035.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -583,7 +587,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/10008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/10009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/10015.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/10024.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/10024.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/10033.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -598,9 +603,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small10008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small10009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small10015.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small10024.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small10024.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small10033.jpg"
 			],
-			"skinName":"正义天使|银白审判 凯尔|末世天使 凯尔|大天使长米迦勒 凯尔|战场女武神 凯尔|圣光审判 凯尔|钢铁之翼 凯尔|防暴天使 凯尔|钢铁审判官 凯尔|五杀摇滚女声主唱 凯尔|灵能特工 凯尔|屠龙勇士 凯尔",
+			"skinName":"正义天使|银白审判 凯尔|末世天使 凯尔|大天使长米迦勒 凯尔|战场女武神 凯尔|圣光审判 凯尔|钢铁之翼 凯尔|防暴天使 凯尔|钢铁审判官 凯尔|五杀摇滚女声主唱 凯尔|灵能特工 凯尔|屠龙勇士 凯尔|五杀摇滚 III：遗失的章节 凯尔",
 			"skins":[
 				"正义天使",
 				"银白审判 凯尔",
@@ -613,9 +619,10 @@
 				"钢铁审判官 凯尔",
 				"五杀摇滚女声主唱 凯尔",
 				"灵能特工 凯尔",
-				"屠龙勇士 凯尔"
+				"屠龙勇士 凯尔",
+				"五杀摇滚 III：遗失的章节 凯尔"
 			],
-			"title":"10000|10001|10002|10003|10004|10005|10006|10007|10008|10009|10015|10024",
+			"title":"10000|10001|10002|10003|10004|10005|10006|10007|10008|10009|10015|10024|10033",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big10000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big10001.jpg",
@@ -628,7 +635,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big10008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big10009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big10015.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big10024.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big10024.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big10033.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -1139,7 +1147,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/18011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/18012.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/18024.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/18033.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/18033.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/18040.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -1154,9 +1163,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small18011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small18012.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small18024.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small18033.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small18033.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small18040.jpg"
 			],
-			"skinName":"麦林炮手|粉色萝莉 崔丝塔娜|圣诞精灵 崔丝塔娜 |烈焰雄心 崔丝塔娜|游击队员 崔丝塔娜|约德尔海贼团 崔丝塔娜|火箭达人 崔丝塔娜|驯龙炮手 崔丝塔娜|魅惑女巫 崔丝塔娜|欧米伽小队 魔鬼伞兵|小恶魔 崔丝塔娜|我，羽饰骑士 崔丝塔娜",
+			"skinName":"麦林炮手|粉色萝莉 崔丝塔娜|圣诞精灵 崔丝塔娜 |烈焰雄心 崔丝塔娜|游击队员 崔丝塔娜|约德尔海贼团 崔丝塔娜|火箭达人 崔丝塔娜|驯龙炮手 崔丝塔娜|魅惑女巫 崔丝塔娜|欧米伽小队 魔鬼伞兵|小恶魔 崔丝塔娜|我，羽饰骑士 崔丝塔娜|海克斯科技 崔丝塔娜",
 			"skins":[
 				"麦林炮手",
 				"粉色萝莉 崔丝塔娜",
@@ -1169,9 +1179,10 @@
 				"魅惑女巫 崔丝塔娜",
 				"欧米伽小队 魔鬼伞兵",
 				"小恶魔 崔丝塔娜",
-				"我，羽饰骑士 崔丝塔娜"
+				"我，羽饰骑士 崔丝塔娜",
+				"海克斯科技 崔丝塔娜"
 			],
-			"title":"18000|18001|18002|18003|18004|18005|18006|18010|18011|18012|18024|18033",
+			"title":"18000|18001|18002|18003|18004|18005|18006|18010|18011|18012|18024|18033|18040",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big18000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big18001.jpg",
@@ -1184,7 +1195,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big18011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big18012.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big18024.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big18033.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big18033.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big18040.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -1498,7 +1510,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/23007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/23008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/23009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/23010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/23010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/23018.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -1512,9 +1525,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small23007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small23008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small23009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small23010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small23010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small23018.jpg"
 			],
-			"skinName":"蛮族之王|勇敢的心 泰达米尔|国王 泰达米尔|诸神的黄昏 泰达米尔|恶魔之刃 泰达米尔|奥斯曼大帝 泰达米尔|关羽 云长|梦魇 泰达米尔|野兽猎人 泰达米尔|生化领主 泰达米尔|腥红之月 泰达米尔",
+			"skinName":"蛮族之王|勇敢的心 泰达米尔|国王 泰达米尔|诸神的黄昏 泰达米尔|恶魔之刃 泰达米尔|奥斯曼大帝 泰达米尔|关羽 云长|梦魇 泰达米尔|野兽猎人 泰达米尔|生化领主 泰达米尔|腥红之月 泰达米尔|黑夜使者 泰达米尔",
 			"skins":[
 				"蛮族之王",
 				"勇敢的心 泰达米尔",
@@ -1526,9 +1540,10 @@
 				"梦魇 泰达米尔",
 				"野兽猎人 泰达米尔",
 				"生化领主 泰达米尔",
-				"腥红之月 泰达米尔"
+				"腥红之月 泰达米尔",
+				"黑夜使者 泰达米尔"
 			],
-			"title":"23000|23001|23002|23003|23004|23005|23006|23007|23008|23009|23010",
+			"title":"23000|23001|23002|23003|23004|23005|23006|23007|23008|23009|23010|23018",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big23000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big23001.jpg",
@@ -1540,7 +1555,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big23007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big23008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big23009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big23010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big23010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big23018.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -1638,7 +1654,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/25010.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/25011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/25017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/25026.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/25026.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/25039.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -1652,9 +1669,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small25010.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small25011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small25017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small25026.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small25026.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small25039.jpg"
 			],
-			"skinName":"堕落天使|杀戮天使昔拉 莫甘娜|地狱厨房 莫甘娜|刀锋女王 莫甘娜|黑色荆棘 莫甘娜|鬼魂新娘 莫甘娜|胜利女神 莫甘娜|紫金罗刹 莫甘娜|魅惑女巫 莫甘娜|玉剑传说 苍鸾|至尊魔女 莫甘娜",
+			"skinName":"堕落天使|杀戮天使昔拉 莫甘娜|地狱厨房 莫甘娜|刀锋女王 莫甘娜|黑色荆棘 莫甘娜|鬼魂新娘 莫甘娜|胜利女神 莫甘娜|紫金罗刹 莫甘娜|魅惑女巫 莫甘娜|玉剑传说 苍鸾|至尊魔女 莫甘娜|黎明使者 莫甘娜",
 			"skins":[
 				"堕落天使",
 				"杀戮天使昔拉 莫甘娜",
@@ -1666,9 +1684,10 @@
 				"紫金罗刹 莫甘娜",
 				"魅惑女巫 莫甘娜",
 				"玉剑传说 苍鸾",
-				"至尊魔女 莫甘娜"
+				"至尊魔女 莫甘娜",
+				"黎明使者 莫甘娜"
 			],
-			"title":"25000|25001|25002|25003|25004|25005|25006|25010|25011|25017|25026",
+			"title":"25000|25001|25002|25003|25004|25005|25006|25010|25011|25017|25026|25039",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big25000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big25001.jpg",
@@ -1680,7 +1699,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big25010.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big25011.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big25017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big25026.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big25026.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big25039.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -1943,7 +1963,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/30004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/30005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/30009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/30010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/30010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/30017.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -1954,9 +1975,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small30004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small30005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small30009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small30010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small30010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small30017.jpg"
 			],
-			"skinName":"死亡颂唱者|幽灵幻影 卡尔萨斯|自由女神 卡尔萨斯|死神 卡尔萨斯|五杀摇滚主唱 卡尔萨斯|Fnatic 卡尔萨斯|卡尔萨斯·祸害之光|地狱火 卡尔萨斯",
+			"skinName":"死亡颂唱者|幽灵幻影 卡尔萨斯|自由女神 卡尔萨斯|死神 卡尔萨斯|五杀摇滚主唱 卡尔萨斯|Fnatic 卡尔萨斯|卡尔萨斯·祸害之光|地狱火 卡尔萨斯|五杀摇滚 III：遗失的章节 卡尔萨斯",
 			"skins":[
 				"死亡颂唱者",
 				"幽灵幻影 卡尔萨斯",
@@ -1965,9 +1987,10 @@
 				"五杀摇滚主唱 卡尔萨斯",
 				"Fnatic 卡尔萨斯",
 				"卡尔萨斯·祸害之光",
-				"地狱火 卡尔萨斯"
+				"地狱火 卡尔萨斯",
+				"五杀摇滚 III：遗失的章节 卡尔萨斯"
 			],
-			"title":"30000|30001|30002|30003|30004|30005|30009|30010",
+			"title":"30000|30001|30002|30003|30004|30005|30009|30010|30017",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big30000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big30001.jpg",
@@ -1976,7 +1999,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big30004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big30005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big30009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big30010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big30010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big30017.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -2377,7 +2401,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/37006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/37007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/37009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/37017.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/37017.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/37026.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -2390,9 +2415,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small37006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small37007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small37009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small37017.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small37017.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small37026.jpg"
 			],
-			"skinName":"琴瑟仙女|缪斯女神 娑娜|五杀摇滚键盘手 娑娜|平安夜女神 娑娜|古琴余韵 娑娜|电玩女神 娑娜|DJ 娑娜|甜心宝贝 娑娜|奥德赛 娑娜|灵能特工 娑娜",
+			"skinName":"琴瑟仙女|缪斯女神 娑娜|五杀摇滚键盘手 娑娜|平安夜女神 娑娜|古琴余韵 娑娜|电玩女神 娑娜|DJ 娑娜|甜心宝贝 娑娜|奥德赛 娑娜|灵能特工 娑娜|五杀摇滚 III：遗失的章节 娑娜",
 			"skins":[
 				"琴瑟仙女",
 				"缪斯女神 娑娜",
@@ -2403,9 +2429,10 @@
 				"DJ 娑娜",
 				"甜心宝贝 娑娜",
 				"奥德赛 娑娜",
-				"灵能特工 娑娜"
+				"灵能特工 娑娜",
+				"五杀摇滚 III：遗失的章节 娑娜"
 			],
-			"title":"37000|37001|37002|37003|37004|37005|37006|37007|37009|37017",
+			"title":"37000|37001|37002|37003|37004|37005|37006|37007|37009|37017|37026",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big37000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big37001.jpg",
@@ -2416,7 +2443,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big37006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big37007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big37009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big37017.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big37017.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big37026.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -3515,7 +3543,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/59008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/59009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/59011.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/59021.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/59021.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/59030.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -3530,9 +3559,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small59008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small59009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small59011.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small59021.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small59021.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small59030.jpg"
 			],
-			"skinName":"德玛西亚皇子|孤胆英豪 嘉文四世|屠龙勇士 嘉文四世|龙骑统帅 嘉文四世|凯旋英雄 嘉文四世|吕布 奉先|Fnatic 嘉文四世|暗星 嘉文四世|SSG 嘉文四世|海克斯科技 嘉文四世|泳池派对 嘉文四世|福牛守护者 嘉文四世",
+			"skinName":"德玛西亚皇子|孤胆英豪 嘉文四世|屠龙勇士 嘉文四世|龙骑统帅 嘉文四世|凯旋英雄 嘉文四世|吕布 奉先|Fnatic 嘉文四世|暗星 嘉文四世|SSG 嘉文四世|海克斯科技 嘉文四世|泳池派对 嘉文四世|福牛守护者 嘉文四世|2021 全球总决赛 嘉文四世",
 			"skins":[
 				"德玛西亚皇子",
 				"孤胆英豪 嘉文四世",
@@ -3545,9 +3575,10 @@
 				"SSG 嘉文四世",
 				"海克斯科技 嘉文四世",
 				"泳池派对 嘉文四世",
-				"福牛守护者 嘉文四世"
+				"福牛守护者 嘉文四世",
+				"2021 全球总决赛 嘉文四世"
 			],
-			"title":"59000|59001|59002|59003|59004|59005|59006|59007|59008|59009|59011|59021",
+			"title":"59000|59001|59002|59003|59004|59005|59006|59007|59008|59009|59011|59021|59030",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big59000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big59001.jpg",
@@ -3560,7 +3591,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big59008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big59009.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big59011.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big59021.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big59021.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big59030.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -4603,7 +4635,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/82004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/82005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/82006.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/82013.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/82013.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/82023.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -4614,9 +4647,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small82004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small82005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small82006.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small82013.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small82013.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small82023.jpg"
 			],
-			"skinName":"铁铠冥魂|龙骑士 莫德凯撒|地狱火 莫德凯撒|五杀摇滚吉他手  莫德凯撒|死亡领主 莫德凯撒|梅花国王 莫德凯撒|暗星 莫德凯撒|源计划：超体 莫德凯撒",
+			"skinName":"铁铠冥魂|龙骑士 莫德凯撒|地狱火 莫德凯撒|五杀摇滚吉他手  莫德凯撒|死亡领主 莫德凯撒|梅花国王 莫德凯撒|暗星 莫德凯撒|源计划：超体 莫德凯撒|五杀摇滚 III：遗失的章节 莫德凯撒",
 			"skins":[
 				"铁铠冥魂",
 				"龙骑士 莫德凯撒",
@@ -4625,9 +4659,10 @@
 				"死亡领主 莫德凯撒",
 				"梅花国王 莫德凯撒",
 				"暗星 莫德凯撒",
-				"源计划：超体 莫德凯撒"
+				"源计划：超体 莫德凯撒",
+				"五杀摇滚 III：遗失的章节 莫德凯撒"
 			],
-			"title":"82000|82001|82002|82003|82004|82005|82006|82013",
+			"title":"82000|82001|82002|82003|82004|82005|82006|82013|82023",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big82000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big82001.jpg",
@@ -4636,7 +4671,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big82004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big82005.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big82006.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big82013.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big82013.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big82023.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -4653,7 +4689,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/83002.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/83003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/83004.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/83012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/83012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/83021.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -4662,25 +4699,28 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small83002.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small83003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small83004.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small83012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small83012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small83021.jpg"
 			],
-			"skinName":"牧魂人|地狱送葬 约里克|五杀摇滚贝斯手 约里克|苍穹之光 约里克|喵里克|抵抗军灵魔 约里克",
+			"skinName":"牧魂人|地狱送葬 约里克|五杀摇滚贝斯手 约里克|苍穹之光 约里克|喵里克|抵抗军灵魔 约里克|五杀摇滚 III：遗失的章节 约里克",
 			"skins":[
 				"牧魂人",
 				"地狱送葬 约里克",
 				"五杀摇滚贝斯手 约里克",
 				"苍穹之光 约里克",
 				"喵里克",
-				"抵抗军灵魔 约里克"
+				"抵抗军灵魔 约里克",
+				"五杀摇滚 III：遗失的章节 约里克"
 			],
-			"title":"83000|83001|83002|83003|83004|83012",
+			"title":"83000|83001|83002|83003|83004|83012|83021",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big83000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big83001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big83002.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big83003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big83004.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big83012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big83012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big83021.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -6734,25 +6774,33 @@
 			"phoneBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/141000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/141001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/141002.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/141002.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/141008.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/141009.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small141000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small141001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small141002.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small141002.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small141008.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small141009.jpg"
 			],
-			"skinName":"影流之镰|摄魂猎手 凯隐|奥德赛 凯隐",
+			"skinName":"影流之镰|摄魂猎手 凯隐|奥德赛 凯隐|黑夜使者 凯隐|黑夜使者 凯隐 至臻",
 			"skins":[
 				"影流之镰",
 				"摄魂猎手 凯隐",
-				"奥德赛 凯隐"
+				"奥德赛 凯隐",
+				"黑夜使者 凯隐",
+				"黑夜使者 凯隐 至臻"
 			],
-			"title":"141000|141001|141002",
+			"title":"141000|141001|141002|141008|141009",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big141000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big141001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big141002.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big141002.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big141008.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big141009.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -7457,22 +7505,26 @@
 			"newType":null,
 			"phoneBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/234000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/234001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/234001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/234010.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small234000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small234001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small234001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small234010.jpg"
 			],
-			"skinName":"破败之王|福牛守护者 佛耶戈",
+			"skinName":"破败之王|福牛守护者 佛耶戈|五杀摇滚之噪音 佛耶戈",
 			"skins":[
 				"破败之王",
-				"福牛守护者 佛耶戈"
+				"福牛守护者 佛耶戈",
+				"五杀摇滚之噪音 佛耶戈"
 			],
-			"title":"234000|234001",
+			"title":"234000|234001|234010",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big234000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big234001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big234001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big234010.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -8618,25 +8670,29 @@
 			"phoneBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/777000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/777001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/777010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/777010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/777019.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small777000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small777001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small777010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small777010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small777019.jpg"
 			],
-			"skinName":"封魔剑魂|灵魂莲华 永恩|战斗学院 永恩",
+			"skinName":"封魔剑魂|灵魂莲华 永恩|战斗学院 永恩|黎明使者 永恩",
 			"skins":[
 				"封魔剑魂",
 				"灵魂莲华 永恩",
-				"战斗学院 永恩"
+				"战斗学院 永恩",
+				"黎明使者 永恩"
 			],
-			"title":"777000|777001|777010",
+			"title":"777000|777001|777010|777019",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big777000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big777001.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big777010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big777010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big777019.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -8689,22 +8745,26 @@
 			"newType":null,
 			"phoneBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/876000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/876001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/876001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/876010.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small876000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small876001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small876001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small876010.jpg"
 			],
-			"skinName":"含羞蓓蕾|灵魂莲华 莉莉娅",
+			"skinName":"含羞蓓蕾|灵魂莲华 莉莉娅|黑夜使者 莉莉娅",
 			"skins":[
 				"含羞蓓蕾",
-				"灵魂莲华 莉莉娅"
+				"灵魂莲华 莉莉娅",
+				"黑夜使者 莉莉娅"
 			],
-			"title":"876000|876001",
+			"title":"876000|876001|876010",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big876000.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big876001.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big876001.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big876010.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
