@@ -2787,7 +2787,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/43008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/43019.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/43026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/43027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/43027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/43044.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -2802,9 +2803,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small43008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small43019.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small43026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small43027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small43027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small43044.jpg"
 			],
-			"skinName":"天启者|日冕女神 卡尔玛|樱花乱舞 卡尔玛|传统服饰 卡尔玛|莲花之令 卡尔玛|光明骑士 卡尔玛|冬季仙境 卡尔玛|征服者 卡尔玛|暗星 卡尔玛|黎明使者 卡尔玛|奥德赛 卡尔玛|破败军团 卡尔玛",
+			"skinName":"天启者|日冕女神 卡尔玛|樱花乱舞 卡尔玛|传统服饰 卡尔玛|莲花之令 卡尔玛|光明骑士 卡尔玛|冬季仙境 卡尔玛|征服者 卡尔玛|暗星 卡尔玛|黎明使者 卡尔玛|奥德赛 卡尔玛|破败军团 卡尔玛|神龙尊者 宁静之龙 卡尔玛",
 			"skins":[
 				"天启者",
 				"日冕女神 卡尔玛",
@@ -2817,9 +2819,10 @@
 				"暗星 卡尔玛",
 				"黎明使者 卡尔玛",
 				"奥德赛 卡尔玛",
-				"破败军团 卡尔玛"
+				"破败军团 卡尔玛",
+				"神龙尊者 宁静之龙 卡尔玛"
 			],
-			"title":"43000|43001|43002|43003|43004|43005|43006|43007|43008|43019|43026|43027",
+			"title":"43000|43001|43002|43003|43004|43005|43006|43007|43008|43019|43026|43027|43044",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big43000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big43001.jpg",
@@ -2832,7 +2835,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big43008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big43019.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big43026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big43027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big43027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big43044.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -5750,7 +5754,9 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/106003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/106004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/106005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/106006.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/106006.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/106007.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/106009.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -5760,9 +5766,11 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small106003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small106004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small106005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small106006.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small106006.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small106007.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small106009.jpg"
 			],
-			"skinName":"不灭狂雷|雷霆领主 沃利贝尔|北地风暴 沃利贝尔|符文战熊 沃利贝尔|警长 沃利贝尔|怒熊 沃利贝尔|坚韧不屈 沃利贝尔",
+			"skinName":"不灭狂雷|雷霆领主 沃利贝尔|北地风暴 沃利贝尔|符文战熊 沃利贝尔|警长 沃利贝尔|怒熊 沃利贝尔|坚韧不屈 沃利贝尔|神龙尊者 均衡之龙 沃利贝尔|神龙尊者 均衡之龙 沃利贝尔 至臻",
 			"skins":[
 				"不灭狂雷",
 				"雷霆领主 沃利贝尔",
@@ -5770,9 +5778,11 @@
 				"符文战熊 沃利贝尔",
 				"警长 沃利贝尔",
 				"怒熊 沃利贝尔",
-				"坚韧不屈 沃利贝尔"
+				"坚韧不屈 沃利贝尔",
+				"神龙尊者 均衡之龙 沃利贝尔",
+				"神龙尊者 均衡之龙 沃利贝尔 至臻"
 			],
-			"title":"106000|106001|106002|106003|106004|106005|106006",
+			"title":"106000|106001|106002|106003|106004|106005|106006|106007|106009",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big106000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big106001.jpg",
@@ -5780,7 +5790,9 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big106003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big106004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big106005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big106006.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big106006.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big106007.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big106009.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -6935,7 +6947,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/145016.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/145017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/145026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/145027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/145027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/145029.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -6946,9 +6959,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small145016.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small145017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small145026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small145027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small145027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small145029.jpg"
 			],
-			"skinName":"虚空之女|弹幕天使 卡莎|K-DA 卡莎|K-DA 卡莎 至臻|iG 卡莎|电玩女神 卡莎|K-DA ALL OUT 卡莎|K-DA ALL OUT 卡莎 至臻",
+			"skinName":"虚空之女|弹幕天使 卡莎|K-DA 卡莎|K-DA 卡莎 至臻|iG 卡莎|电玩女神 卡莎|K-DA ALL OUT 卡莎|K-DA ALL OUT 卡莎 至臻|神龙尊者 玉境灵龙 卡莎",
 			"skins":[
 				"虚空之女",
 				"弹幕天使 卡莎",
@@ -6957,9 +6971,10 @@
 				"iG 卡莎",
 				"电玩女神 卡莎",
 				"K-DA ALL OUT 卡莎",
-				"K-DA ALL OUT 卡莎 至臻"
+				"K-DA ALL OUT 卡莎 至臻",
+				"神龙尊者 玉境灵龙 卡莎"
 			],
-			"title":"145000|145001|145014|145015|145016|145017|145026|145027",
+			"title":"145000|145001|145014|145015|145016|145017|145026|145027|145029",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big145000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big145001.jpg",
@@ -6968,7 +6983,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big145016.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big145017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big145026.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big145027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big145027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big145029.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -7113,7 +7129,9 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/157017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/157018.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/157035.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/157036.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/157036.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/157054.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/157055.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -7126,9 +7144,11 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small157017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small157018.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small157035.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small157036.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small157036.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small157054.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small157055.jpg"
 			],
-			"skinName":"疾风剑豪|西部牛仔 亚索|源计划：风 亚索|腥红之月 亚索|黑夜使者 亚索|奥德赛 亚索|战场BOSS 亚索|真实伤害 亚索|真实伤害 亚索 至臻|灵魂莲华 亚索",
+			"skinName":"疾风剑豪|西部牛仔 亚索|源计划：风 亚索|腥红之月 亚索|黑夜使者 亚索|奥德赛 亚索|战场BOSS 亚索|真实伤害 亚索|真实伤害 亚索 至臻|灵魂莲华 亚索|神龙尊者 昼日真龙 亚索|神龙尊者 夜月幻龙 亚索",
 			"skins":[
 				"疾风剑豪",
 				"西部牛仔 亚索",
@@ -7139,9 +7159,11 @@
 				"战场BOSS 亚索",
 				"真实伤害 亚索",
 				"真实伤害 亚索 至臻",
-				"灵魂莲华 亚索"
+				"灵魂莲华 亚索",
+				"神龙尊者 昼日真龙 亚索",
+				"神龙尊者 夜月幻龙 亚索"
 			],
-			"title":"157000|157001|157002|157003|157009|157010|157017|157018|157035|157036",
+			"title":"157000|157001|157002|157003|157009|157010|157017|157018|157035|157036|157054|157055",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big157000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big157001.jpg",
@@ -7152,7 +7174,9 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big157017.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big157018.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big157035.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big157036.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big157036.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big157054.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big157055.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -8135,7 +8159,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/412014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/412015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/412017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/412027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/412027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/412028.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -8150,9 +8175,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small412014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small412015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small412017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small412027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small412027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small412028.jpg"
 			],
-			"skinName":"魂锁典狱长|深渊恐惧 锤石|冠军典狱长 锤石|腥红之月 锤石|SSW 锤石|暗星 锤石|西部魔影 锤石|未来战士 锤石|未来战士 锤石 至臻|FPX 锤石|灵魂莲华 锤石|破败解封 锤石",
+			"skinName":"魂锁典狱长|深渊恐惧 锤石|冠军典狱长 锤石|腥红之月 锤石|SSW 锤石|暗星 锤石|西部魔影 锤石|未来战士 锤石|未来战士 锤石 至臻|FPX 锤石|灵魂莲华 锤石|破败解封 锤石|神龙尊者 钢铁之龙 锤石",
 			"skins":[
 				"魂锁典狱长",
 				"深渊恐惧 锤石",
@@ -8165,9 +8191,10 @@
 				"未来战士 锤石 至臻",
 				"FPX 锤石",
 				"灵魂莲华 锤石",
-				"破败解封 锤石"
+				"破败解封 锤石",
+				"神龙尊者 钢铁之龙 锤石"
 			],
-			"title":"412000|412001|412002|412003|412004|412005|412006|412013|412014|412015|412017|412027",
+			"title":"412000|412001|412002|412003|412004|412005|412006|412013|412014|412015|412017|412027|412028",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big412000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big412001.jpg",
@@ -8180,7 +8207,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big412014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big412015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big412017.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big412027.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big412027.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big412028.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
