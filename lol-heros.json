@@ -7091,7 +7091,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/150004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/150013.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/150014.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/150015.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/150015.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/150022.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -7102,9 +7103,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small150004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small150013.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small150014.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small150015.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small150015.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small150022.jpg"
 			],
-			"skinName":"迷失之牙|最后一只恐龙 纳尔|萌侦探 喵尔摩斯|冰雪兽 纳尔|狂狮 纳尔|银河魔装机神 纳尔|SSG 纳尔|宇航员 纳尔",
+			"skinName":"迷失之牙|最后一只恐龙 纳尔|萌侦探 喵尔摩斯|冰雪兽 纳尔|狂狮 纳尔|银河魔装机神 纳尔|SSG 纳尔|宇航员 纳尔|永恒之森 纳尔",
 			"skins":[
 				"迷失之牙",
 				"最后一只恐龙 纳尔",
@@ -7113,9 +7115,10 @@
 				"狂狮 纳尔",
 				"银河魔装机神 纳尔",
 				"SSG 纳尔",
-				"宇航员 纳尔"
+				"宇航员 纳尔",
+				"永恒之森 纳尔"
 			],
-			"title":"150000|150001|150002|150003|150004|150013|150014|150015",
+			"title":"150000|150001|150002|150003|150004|150013|150014|150015|150022",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big150000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big150001.jpg",
@@ -7124,7 +7127,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big150004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big150013.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big150014.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big150015.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big150015.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big150022.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -8327,28 +8331,32 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/421000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/421001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/421002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/421009.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/421009.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/421017.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small421000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small421001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small421002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small421009.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small421009.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small421017.jpg"
 			],
-			"skinName":"虚空遁地兽|上古战魂 雷克塞|泳池派对 雷克塞|黯晶巨兽 雷克塞",
+			"skinName":"虚空遁地兽|上古战魂 雷克塞|泳池派对 雷克塞|黯晶巨兽 雷克塞|永恒之森 雷克塞",
 			"skins":[
 				"虚空遁地兽",
 				"上古战魂 雷克塞",
 				"泳池派对 雷克塞",
-				"黯晶巨兽 雷克塞"
+				"黯晶巨兽 雷克塞",
+				"永恒之森 雷克塞"
 			],
-			"title":"421000|421001|421002|421009",
+			"title":"421000|421001|421002|421009|421017",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big421000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big421001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big421002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big421009.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big421009.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big421017.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
