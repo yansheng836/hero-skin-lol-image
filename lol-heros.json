@@ -1918,7 +1918,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/27007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/27008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/27009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/27010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/27010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/27019.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -1932,9 +1933,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small27007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small27008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small27009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small27010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small27010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small27019.jpg"
 			],
-			"skinName":"炼金术士|防暴士兵 辛吉德|机械污染 辛吉德|冲浪高手 辛吉德|科学狂人 辛吉德|炼金狂士 辛吉德|冰雪节 辛吉德|SSW 辛吉德|黑色天灾 辛吉德|养蜂人 辛吉德|抵抗军绿魔 辛吉德",
+			"skinName":"炼金术士|防暴士兵 辛吉德|机械污染 辛吉德|冲浪高手 辛吉德|科学狂人 辛吉德|炼金狂士 辛吉德|冰雪节 辛吉德|SSW 辛吉德|黑色天灾 辛吉德|养蜂人 辛吉德|抵抗军绿魔 辛吉德|宇航员 辛吉德",
 			"skins":[
 				"炼金术士",
 				"防暴士兵 辛吉德",
@@ -1946,9 +1948,10 @@
 				"SSW 辛吉德",
 				"黑色天灾 辛吉德",
 				"养蜂人 辛吉德",
-				"抵抗军绿魔 辛吉德"
+				"抵抗军绿魔 辛吉德",
+				"宇航员 辛吉德"
 			],
-			"title":"27000|27001|27002|27003|27004|27005|27006|27007|27008|27009|27010",
+			"title":"27000|27001|27002|27003|27004|27005|27006|27007|27008|27009|27010|27019",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big27000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big27001.jpg",
@@ -1960,7 +1963,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big27007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big27008.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big27009.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big27010.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big27010.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big27019.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -5165,7 +5169,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/85006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/85007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/85008.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/85023.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/85023.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/85025.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -5178,9 +5183,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small85006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small85007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small85008.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small85023.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small85023.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small85025.jpg"
 			],
-			"skinName":"狂暴之心|红色彗星 凯南|银色闪电 凯南|空手道 凯南|医学博士 凯南|刺客信条 凯南|腥红之月 凯南|超级英雄 凯南|奈落之炎 凯南|DWG 凯南",
+			"skinName":"狂暴之心|红色彗星 凯南|银色闪电 凯南|空手道 凯南|医学博士 凯南|刺客信条 凯南|腥红之月 凯南|超级英雄 凯南|奈落之炎 凯南|DWG 凯南|宇航员 凯南",
 			"skins":[
 				"狂暴之心",
 				"红色彗星 凯南",
@@ -5191,9 +5197,10 @@
 				"腥红之月 凯南",
 				"超级英雄 凯南",
 				"奈落之炎 凯南",
-				"DWG 凯南"
+				"DWG 凯南",
+				"宇航员 凯南"
 			],
-			"title":"85000|85001|85002|85003|85004|85005|85006|85007|85008|85023",
+			"title":"85000|85001|85002|85003|85004|85005|85006|85007|85008|85023|85025",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big85000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big85001.jpg",
@@ -5204,7 +5211,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big85006.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big85007.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big85008.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big85023.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big85023.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big85025.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -5834,7 +5842,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/101003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/101004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/101005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/101012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/101012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/101021.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -5844,9 +5853,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small101003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small101004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small101005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small101012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small101012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small101021.jpg"
 			],
-			"skinName":"远古巫灵|符文生物 泽拉斯|战地法师 泽拉斯|枯萎之壤 泽拉斯|沙之守护 泽拉斯|暗星 泽拉斯|欲望之主 泽拉斯",
+			"skinName":"远古巫灵|符文生物 泽拉斯|战地法师 泽拉斯|枯萎之壤 泽拉斯|沙之守护 泽拉斯|暗星 泽拉斯|欲望之主 泽拉斯|宇航员 泽拉斯",
 			"skins":[
 				"远古巫灵",
 				"符文生物 泽拉斯",
@@ -5854,9 +5864,10 @@
 				"枯萎之壤 泽拉斯",
 				"沙之守护 泽拉斯",
 				"暗星 泽拉斯",
-				"欲望之主 泽拉斯"
+				"欲望之主 泽拉斯",
+				"宇航员 泽拉斯"
 			],
-			"title":"101000|101001|101002|101003|101004|101005|101012",
+			"title":"101000|101001|101002|101003|101004|101005|101012|101021",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big101000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big101001.jpg",
@@ -5864,7 +5875,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big101003.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big101004.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big101005.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big101012.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big101012.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big101021.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -6099,7 +6111,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/105014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/105015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/105016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/105025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/105025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/105026.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -6114,9 +6127,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small105014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small105015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small105016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small105025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small105025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small105026.jpg"
 			],
-			"skinName":"潮汐海灵|失落大陆 菲兹|苔原猎手 菲兹|海牛猎手 菲兹|虚空海灵 菲兹|兔宝宝 菲兹|银河魔装机神 菲兹|欧米伽小队 鬼影蛙人|绒毛菲兹|至臻 绒毛菲兹|小恶魔 菲兹|至臻 绒毛菲兹 (2022)",
+			"skinName":"潮汐海灵|失落大陆 菲兹|苔原猎手 菲兹|海牛猎手 菲兹|虚空海灵 菲兹|兔宝宝 菲兹|银河魔装机神 菲兹|欧米伽小队 鬼影蛙人|绒毛菲兹|至臻 绒毛菲兹|小恶魔 菲兹|至臻 绒毛菲兹 (2022)|宇航员 菲兹",
 			"skins":[
 				"潮汐海灵",
 				"失落大陆 菲兹",
@@ -6129,9 +6143,10 @@
 				"绒毛菲兹",
 				"至臻 绒毛菲兹",
 				"小恶魔 菲兹",
-				"至臻 绒毛菲兹 (2022)"
+				"至臻 绒毛菲兹 (2022)",
+				"宇航员 菲兹"
 			],
-			"title":"105000|105001|105002|105003|105004|105008|105009|105010|105014|105015|105016|105025",
+			"title":"105000|105001|105002|105003|105004|105008|105009|105010|105014|105015|105016|105025|105026",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big105000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big105001.jpg",
@@ -6144,7 +6159,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big105014.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big105015.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big105016.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big105025.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big105025.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big105026.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -8975,28 +8991,32 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/427000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/427001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/427002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/427011.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/427011.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/427020.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small427000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small427001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small427002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small427011.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small427011.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small427020.jpg"
 			],
-			"skinName":"翠神|糖果之王 艾翁|灌篮高手 艾翁|古神 艾翁",
+			"skinName":"翠神|糖果之王 艾翁|灌篮高手 艾翁|古神 艾翁|宇航员 艾翁",
 			"skins":[
 				"翠神",
 				"糖果之王 艾翁",
 				"灌篮高手 艾翁",
-				"古神 艾翁"
+				"古神 艾翁",
+				"宇航员 艾翁"
 			],
-			"title":"427000|427001|427002|427011",
+			"title":"427000|427001|427002|427011|427020",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big427000.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big427001.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big427002.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big427011.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big427011.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big427020.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
