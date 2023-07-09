@@ -64,11 +64,11 @@
 ### 存储
 
 - Gitee：<https://gitee.com/yansheng0083/hero-skin-lol>
-- GitHub：<https://github.com/yansheng836/hero-skin-lol>
+- GitHub：<https://github.com/yansheng836/hero-skin-lol-image>
 
 ### 访问照片的方式
 
-![103澜-1-鲨之猎刃](https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-image/5wallpaper-bigskin-images/103%E6%BE%9C-1-%E9%B2%A8%E4%B9%8B%E7%8C%8E%E5%88%83.jpg)
+![1黑暗之女-1-黑暗之女](https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-lol-image/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg)
 
 - [https://gitee.com/yansheng0083/hero-skin-image/blob/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg](https://gitee.com/yansheng0083/hero-skin-image/blob/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg)
 - [https://gitee.com/yansheng0083/hero-skin-image/raw/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg](https://gitee.com/yansheng0083/hero-skin-image/raw/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg)
