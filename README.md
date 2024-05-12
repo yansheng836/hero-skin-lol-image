@@ -1,4 +1,8 @@
-# hero-skin-lol
+[TOC]
+
+---
+
+# hero-skin-lol-image
 
 本项目仅仅用于备份英雄联盟的皮肤图片。
 
@@ -28,8 +32,9 @@
 | 2021年10月21日08:14:58  |   155    |          |          | 1455 |          |
 | 2023年04月30日01:23:20  |   155    |          |          | 1659 |          |
 | 2023年04月30日01:27:48  |   163    |          |          | 1680 |          |
+| 2024年05月13日00:48:26  |   163    |          |          | 1826 |          |
 
-2021年10月21日08:18:32
+#### 2021年10月21日08:18:32
 
 1phone-smallskin-lol   1455
 
@@ -37,7 +42,7 @@
 
 5wallpaper-bigskin-lol 1487
 
-2022年3月26日16:44:12
+#### 2022年3月26日16:44:12
 
 1phone-smallskin-lol   1510
 
@@ -45,7 +50,7 @@
 
 5wallpaper-bigskin-lol 1542
 
-2023年4月30日01:22:21
+#### 2023年4月30日01:22:21
 
 1phone-smallskin-lol   1707
 
@@ -53,13 +58,21 @@
 
 5wallpaper-bigskin-lol 1739
 
-2023年4月30日01:28:11
+#### 2023年4月30日01:28:11
 
 1phone-smallskin-lol   1987
 
 3phone-bigskin-lol 	  2355
 
 5wallpaper-bigskin-lol 2019
+
+#### 2024年5月13日00:49:11
+
+1phone-smallskin-lol   2172
+
+3phone-bigskin-lol 	  2520
+
+5wallpaper-bigskin-lol 2204
 
 ### 存储
 
@@ -68,11 +81,20 @@
 
 ### 访问照片的方式
 
+CDN在线
+
 ![1黑暗之女-1-黑暗之女](https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-lol-image/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg)
 
-- [https://gitee.com/yansheng0083/hero-skin-image/blob/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg](https://gitee.com/yansheng0083/hero-skin-image/blob/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg)
-- [https://gitee.com/yansheng0083/hero-skin-image/raw/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg](https://gitee.com/yansheng0083/hero-skin-image/raw/main/5wallpaper-bigskin-images/103澜-1-鲨之猎刃.jpg)
+本地
 
-- [https://github.com/yansheng836/hero-skin-image/blob/main/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg](https://github.com/yansheng836/hero-skin-image/blob/main/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg)
-- [https://raw.githubusercontent.com/yansheng836/hero-skin-image/main/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg](https://raw.githubusercontent.com/yansheng836/hero-skin-image/main/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg)
-- [https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-image/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg](https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-image/5wallpaper-bigskin-images/104司空震-1-雷霆之王.jpg)
+![1黑暗之女-1-黑暗之女](./5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg)
+
+(gitee因为有存储空间限制，后续不备份到gitee了。github仓库是私有的，没有cdn。)
+- ~~<https://gitee.com/yansheng0083/hero-skin-lol/blob/main/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg>~~
+- ~~<https://gitee.com/yansheng0083/hero-skin-lol/raw/main/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg>~~
+- <https://github.com/yansheng836/hero-skin-lol-image/blob/main/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg>
+- <https://raw.githubusercontent.com/yansheng836/hero-skin-lol-image/main/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg>
+- ~~<https://cdn.jsdelivr.net/gh/yansheng836/hero-skin-lol-image/5wallpaper-bigskin-lol/1黑暗之女-1-黑暗之女.jpg>~~
+
+
+
