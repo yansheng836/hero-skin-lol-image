@@ -11,6 +11,22 @@
 - Gitee：<https://gitee.com/yansheng0083/hero-skin>
 - GitHub：<https://github.com/yansheng836/hero-skin>
 
+## 存在问题
+
+### 2025年2月8日 停用gitee仓库
+
+因为仓库太大了，而gitee有大小限制，不在存储。
+
+### 2025年2月8日 更新html，发现有英雄被删除
+
+发现有2个英雄被删除：，导致后面的英雄顺序发生了变化，重复下载了。
+
+补全：。
+
+```
+
+```
+
 ## 英雄联盟(LOL)
 
 官网英雄介绍主页：<http://lol.qq.com/data/info-heros.shtml>
