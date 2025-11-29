@@ -17,8 +17,8 @@ jobs:
         uses: actions/setup-java@v4
         with:
           java-version: '8' # 根据您的 jar 包需求修改版本，例如 '8', '11', '17', '21'
-          distribution: 'temurin'
-          cache: 'maven' # 如果您在 CI 中使用 Maven，可以添加缓存
+          distribution: 'temurin' # 指定使用 Temurin 发行版（OpenJDK）
+          #cache: 'maven' # 如果您在 CI 中使用 Maven，可以添加缓存
         
       - name: Show current time (UTC)
         run: date -u +"%Y-%m-%d %H:%M:%S UTC"
