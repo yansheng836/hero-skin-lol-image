@@ -1,0 +1,32 @@
+name: Daily job (Beijing 00:10)
+
+on:
+  schedule:
+    # Runs at 00:10 Asia/Shanghai (Beijing) time -> 16:10 UTC previous day
+    - cron: '10 16 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show current time (UTC)
+        run: date -u +"%Y-%m-%d %H:%M:%S UTC"
+
+      - name: Show current time (Asia/Shanghai)
+        run: |
+          TZ=Asia/Shanghai date +"%Y-%m-%d %H:%M:%S %Z"
+
+      - name: Run project daily script if exists
+        run: |
+          java -jar hero-skin-1.0.5-lol.jar
+      - name: GIT commit
+        run: |
+          git status
+          git add .
+          git commit -m "bot: add some skins"
+          
+          
