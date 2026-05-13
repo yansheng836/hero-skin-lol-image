@@ -754,9 +754,9 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_c4a199d7-bb98-4318-b2d7-58e6fc08b57b.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_7ed25918-923d-4ae7-8f92-8be03f0d5d91.jpg"
 			],
-			"skinName":"费德提克|幽魂 费德提克|联合王国 费德提克|荒野幽灵 费德提克|南瓜头 费德提克|铁钩船长 费德提克|惊悚派对 费德提克|糖果使徒 费德提克|重生之沙 费德提克|禁卫机甲 费德提克|星之吞噬者 费德提克|腥红之月 费德提克|绝命花妖 费德提克",
+			"skinName":"远古恐惧|幽魂 费德提克|联合王国 费德提克|荒野幽灵 费德提克|南瓜头 费德提克|铁钩船长 费德提克|惊悚派对 费德提克|糖果使徒 费德提克|重生之沙 费德提克|禁卫机甲 费德提克|星之吞噬者 费德提克|腥红之月 费德提克|绝命花妖 费德提克",
 			"skins":[
-				"费德提克",
+				"远古恐惧",
 				"幽魂 费德提克",
 				"联合王国 费德提克",
 				"荒野幽灵 费德提克",
@@ -9829,7 +9829,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/e7a0cf29-4fa7-4e97-a146-a0470497c1a6.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/9ca53593-ac97-45fd-9cc2-d362ba378124.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/36bcef17-a16f-4870-9ce8-cefaad501802.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/8744d1ba-9664-41f3-982e-b39c99a806c3.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/8744d1ba-9664-41f3-982e-b39c99a806c3.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/931f167d-c810-408f-b213-e5806a449e23.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -9839,9 +9840,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_e7a0cf29-4fa7-4e97-a146-a0470497c1a6.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_9ca53593-ac97-45fd-9cc2-d362ba378124.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_36bcef17-a16f-4870-9ce8-cefaad501802.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small_8744d1ba-9664-41f3-982e-b39c99a806c3.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_8744d1ba-9664-41f3-982e-b39c99a806c3.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_931f167d-c810-408f-b213-e5806a449e23.jpg"
 			],
-			"skinName":"德玛西亚之翼|血羽凤凰 奎因|勇敢的心 奎因|死亡之鹰 奎因|觅心之翼 奎因|光明骑士 奎因|星之守护者 奎因",
+			"skinName":"德玛西亚之翼|血羽凤凰 奎因|勇敢的心 奎因|死亡之鹰 奎因|觅心之翼 奎因|光明骑士 奎因|星之守护者 奎因|源计划：鹰眼 奎因",
 			"skins":[
 				"德玛西亚之翼",
 				"血羽凤凰 奎因",
@@ -9849,7 +9851,8 @@
 				"死亡之鹰 奎因",
 				"觅心之翼 奎因",
 				"光明骑士 奎因",
-				"星之守护者 奎因"
+				"星之守护者 奎因",
+				"源计划：鹰眼 奎因"
 			],
 			"skinsIds":[
 				"911a5633-b453-4848-886d-8cb3b7d61ac0.jpg",
@@ -9858,9 +9861,10 @@
 				"e7a0cf29-4fa7-4e97-a146-a0470497c1a6.jpg",
 				"9ca53593-ac97-45fd-9cc2-d362ba378124.jpg",
 				"36bcef17-a16f-4870-9ce8-cefaad501802.jpg",
-				"8744d1ba-9664-41f3-982e-b39c99a806c3.jpg"
+				"8744d1ba-9664-41f3-982e-b39c99a806c3.jpg",
+				"931f167d-c810-408f-b213-e5806a449e23.jpg"
 			],
-			"title":"133000|133001|133002|133003|133004|133005|133014",
+			"title":"133000|133001|133002|133003|133004|133005|133014|133024",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_911a5633-b453-4848-886d-8cb3b7d61ac0.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_c14cee3b-dde2-4b53-a9d2-9106033dfa1d.jpg",
@@ -9868,7 +9872,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_e7a0cf29-4fa7-4e97-a146-a0470497c1a6.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_9ca53593-ac97-45fd-9cc2-d362ba378124.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_36bcef17-a16f-4870-9ce8-cefaad501802.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big_8744d1ba-9664-41f3-982e-b39c99a806c3.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_8744d1ba-9664-41f3-982e-b39c99a806c3.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_931f167d-c810-408f-b213-e5806a449e23.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -12676,7 +12681,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/1ce61de7-f555-4ef9-8f57-ac1263557d8f.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/cbdbada4-753e-4420-8f16-a15a8166e9fc.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/b8c924eb-d54e-4a3f-a6cf-d2c407f02148.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/92fec484-021f-427c-9ad8-a30a5d6258ff.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/92fec484-021f-427c-9ad8-a30a5d6258ff.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/1823ec58-e1b4-4a31-a032-7c55ee6f48da.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -12685,16 +12691,18 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_1ce61de7-f555-4ef9-8f57-ac1263557d8f.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_cbdbada4-753e-4420-8f16-a15a8166e9fc.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_b8c924eb-d54e-4a3f-a6cf-d2c407f02148.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small_92fec484-021f-427c-9ad8-a30a5d6258ff.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_92fec484-021f-427c-9ad8-a30a5d6258ff.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_1823ec58-e1b4-4a31-a032-7c55ee6f48da.jpg"
 			],
-			"skinName":"翠神|糖果之王 艾翁|灌篮高手 艾翁|古神 艾翁|宇航员 艾翁|灵魂莲华 艾翁",
+			"skinName":"翠神|糖果之王 艾翁|灌篮高手 艾翁|古神 艾翁|宇航员 艾翁|灵魂莲华 艾翁|青蛙雨衣 艾翁",
 			"skins":[
 				"翠神",
 				"糖果之王 艾翁",
 				"灌篮高手 艾翁",
 				"古神 艾翁",
 				"宇航员 艾翁",
-				"灵魂莲华 艾翁"
+				"灵魂莲华 艾翁",
+				"青蛙雨衣 艾翁"
 			],
 			"skinsIds":[
 				"ee4352ad-5115-415f-97a7-8f08d6e795ed.jpg",
@@ -12702,16 +12710,18 @@
 				"1ce61de7-f555-4ef9-8f57-ac1263557d8f.jpg",
 				"cbdbada4-753e-4420-8f16-a15a8166e9fc.jpg",
 				"b8c924eb-d54e-4a3f-a6cf-d2c407f02148.jpg",
-				"92fec484-021f-427c-9ad8-a30a5d6258ff.jpg"
+				"92fec484-021f-427c-9ad8-a30a5d6258ff.jpg",
+				"1823ec58-e1b4-4a31-a032-7c55ee6f48da.jpg"
 			],
-			"title":"427000|427001|427002|427011|427020|427030",
+			"title":"427000|427001|427002|427011|427020|427030|427031",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_ee4352ad-5115-415f-97a7-8f08d6e795ed.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_489755a0-6d9b-4c72-931f-f1239bc21304.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_1ce61de7-f555-4ef9-8f57-ac1263557d8f.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_cbdbada4-753e-4420-8f16-a15a8166e9fc.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_b8c924eb-d54e-4a3f-a6cf-d2c407f02148.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big_92fec484-021f-427c-9ad8-a30a5d6258ff.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_92fec484-021f-427c-9ad8-a30a5d6258ff.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_1823ec58-e1b4-4a31-a032-7c55ee6f48da.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
