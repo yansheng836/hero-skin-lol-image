@@ -548,7 +548,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/d5d5460a-5b21-45f9-9da2-ccfc12a74b97.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/55167512-14fd-4797-9545-bb8b77ab6982.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/c200bec6-b0fc-4831-b914-fcd92496ddc3.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/de1e5648-46fb-4486-b066-70ae52dc27f6.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -565,9 +566,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_d5d5460a-5b21-45f9-9da2-ccfc12a74b97.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_55167512-14fd-4797-9545-bb8b77ab6982.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_c200bec6-b0fc-4831-b914-fcd92496ddc3.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small_961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_de1e5648-46fb-4486-b066-70ae52dc27f6.jpg"
 			],
-			"skinName":"诡术妖姬|潮流女王 乐芙兰|社会名流 乐芙兰|幸福女神 乐芙兰|邪鸦魅影 乐芙兰|永恒之森 乐芙兰|源代码 乐芙兰|iG 乐芙兰|魔女 乐芙兰|冠军蔷薇 乐芙兰|至臻 魔女 乐芙兰|幻执事 乐芙兰|魅惑女巫 乐芙兰|殿堂传奇 乐芙兰",
+			"skinName":"诡术妖姬|潮流女王 乐芙兰|社会名流 乐芙兰|幸福女神 乐芙兰|邪鸦魅影 乐芙兰|永恒之森 乐芙兰|源代码 乐芙兰|iG 乐芙兰|魔女 乐芙兰|冠军蔷薇 乐芙兰|至臻 魔女 乐芙兰|幻执事 乐芙兰|魅惑女巫 乐芙兰|殿堂传奇 乐芙兰|至臻 恶魔假日 乐芙兰",
 			"skins":[
 				"诡术妖姬",
 				"潮流女王 乐芙兰",
@@ -582,7 +584,8 @@
 				"至臻 魔女 乐芙兰",
 				"幻执事 乐芙兰",
 				"魅惑女巫 乐芙兰",
-				"殿堂传奇 乐芙兰"
+				"殿堂传奇 乐芙兰",
+				"至臻 恶魔假日 乐芙兰"
 			],
 			"skinsIds":[
 				"ec0af028-71d5-461b-953b-7cb63ee73215.jpg",
@@ -598,9 +601,10 @@
 				"d5d5460a-5b21-45f9-9da2-ccfc12a74b97.jpg",
 				"55167512-14fd-4797-9545-bb8b77ab6982.jpg",
 				"c200bec6-b0fc-4831-b914-fcd92496ddc3.jpg",
-				"961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg"
+				"961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg",
+				"de1e5648-46fb-4486-b066-70ae52dc27f6.jpg"
 			],
-			"title":"7000|7001|7002|7003|7004|7005|7012|7019|7020|7029|7033|7035|7045|7055",
+			"title":"7000|7001|7002|7003|7004|7005|7012|7019|7020|7029|7033|7035|7045|7055|7059",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_ec0af028-71d5-461b-953b-7cb63ee73215.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_6587e2d5-e4c3-47ed-8e3c-9ae141646025.jpg",
@@ -615,7 +619,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_d5d5460a-5b21-45f9-9da2-ccfc12a74b97.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_55167512-14fd-4797-9545-bb8b77ab6982.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_c200bec6-b0fc-4831-b914-fcd92496ddc3.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big_961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_961bbd3a-1601-485c-ac7a-f13de075f6ef.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_de1e5648-46fb-4486-b066-70ae52dc27f6.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -5536,7 +5541,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/08e9b66d-b374-4e88-b5b9-89902cbd7c72.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/5b155b9e-4681-44aa-b029-56da217b5d89.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/cbdf6be5-fef6-4f08-b60d-e28450265a56.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/b35662a7-9846-4a23-8a7f-ea641c766824.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/b35662a7-9846-4a23-8a7f-ea641c766824.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/dd16ac22-7dc0-464e-b4d9-f17638f0ff87.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
@@ -5552,9 +5558,10 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_08e9b66d-b374-4e88-b5b9-89902cbd7c72.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_5b155b9e-4681-44aa-b029-56da217b5d89.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_cbdf6be5-fef6-4f08-b60d-e28450265a56.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small_b35662a7-9846-4a23-8a7f-ea641c766824.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_b35662a7-9846-4a23-8a7f-ea641c766824.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_dd16ac22-7dc0-464e-b4d9-f17638f0ff87.jpg"
 			],
-			"skinName":"复仇焰魂|末日余生 布兰德|V字仇杀者 布兰德|冰晶之核 布兰德|丧尸 布兰德|灵魂烈焰 布兰德|战场BOSS 布兰德|苍穹之光 布兰德|神龙尊者 魔龙布兰德|焰执事 布兰德|至臻 焰执事 布兰德|妖怪艺术家 布兰德|至高天 布兰德",
+			"skinName":"复仇焰魂|末日余生 布兰德|V字仇杀者 布兰德|冰晶之核 布兰德|丧尸 布兰德|灵魂烈焰 布兰德|战场BOSS 布兰德|苍穹之光 布兰德|神龙尊者 魔龙布兰德|焰执事 布兰德|至臻 焰执事 布兰德|妖怪艺术家 布兰德|至高天 布兰德|恶魔假日 布兰德",
 			"skins":[
 				"复仇焰魂",
 				"末日余生 布兰德",
@@ -5568,7 +5575,8 @@
 				"焰执事 布兰德",
 				"至臻 焰执事 布兰德",
 				"妖怪艺术家 布兰德",
-				"至高天 布兰德"
+				"至高天 布兰德",
+				"恶魔假日 布兰德"
 			],
 			"skinsIds":[
 				"03123254-71ad-40c3-a8b6-c3370a4c13d4.jpg",
@@ -5583,9 +5591,10 @@
 				"08e9b66d-b374-4e88-b5b9-89902cbd7c72.jpg",
 				"5b155b9e-4681-44aa-b029-56da217b5d89.jpg",
 				"cbdf6be5-fef6-4f08-b60d-e28450265a56.jpg",
-				"b35662a7-9846-4a23-8a7f-ea641c766824.jpg"
+				"b35662a7-9846-4a23-8a7f-ea641c766824.jpg",
+				"dd16ac22-7dc0-464e-b4d9-f17638f0ff87.jpg"
 			],
-			"title":"63000|63001|63002|63003|63004|63005|63006|63007|63008|63021|63022|63033|63042",
+			"title":"63000|63001|63002|63003|63004|63005|63006|63007|63008|63021|63022|63033|63042|63053",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_03123254-71ad-40c3-a8b6-c3370a4c13d4.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_2b9da943-8407-4809-8b0c-439292f9f98f.jpg",
@@ -5599,7 +5608,8 @@
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_08e9b66d-b374-4e88-b5b9-89902cbd7c72.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_5b155b9e-4681-44aa-b029-56da217b5d89.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_cbdf6be5-fef6-4f08-b60d-e28450265a56.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big_b35662a7-9846-4a23-8a7f-ea641c766824.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_b35662a7-9846-4a23-8a7f-ea641c766824.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_dd16ac22-7dc0-464e-b4d9-f17638f0ff87.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
@@ -14155,30 +14165,35 @@
 			"phoneBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/89056f8e-8fe5-4bec-ae9a-c23c6ffd1a07.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skinloading/0d68fdf7-e5dc-4881-9ba4-e5625c365341.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skinloading/a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skinloading/12e02271-2e62-48a7-b0af-eb2b8a53db7f.jpg"
 			],
 			"phoneMobileskinUrl":[],
 			"phoneSmallskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_89056f8e-8fe5-4bec-ae9a-c23c6ffd1a07.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/small_0d68fdf7-e5dc-4881-9ba4-e5625c365341.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/small_a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/small_12e02271-2e62-48a7-b0af-eb2b8a53db7f.jpg"
 			],
-			"skinName":"异画师|北极星使者 彗|灵魂莲华 彗",
+			"skinName":"异画师|北极星使者 彗|灵魂莲华 彗|恶魔假日 彗",
 			"skins":[
 				"异画师",
 				"北极星使者 彗",
-				"灵魂莲华 彗"
+				"灵魂莲华 彗",
+				"恶魔假日 彗"
 			],
 			"skinsIds":[
 				"89056f8e-8fe5-4bec-ae9a-c23c6ffd1a07.jpg",
 				"0d68fdf7-e5dc-4881-9ba4-e5625c365341.jpg",
-				"a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg"
+				"a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg",
+				"12e02271-2e62-48a7-b0af-eb2b8a53db7f.jpg"
 			],
-			"title":"910000|910001|910011",
+			"title":"910000|910001|910011|910021",
 			"wallpaperBigskinUrl":[
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_89056f8e-8fe5-4bec-ae9a-c23c6ffd1a07.jpg",
 				"https://game.gtimg.cn/images/lol/act/img/skin/big_0d68fdf7-e5dc-4881-9ba4-e5625c365341.jpg",
-				"https://game.gtimg.cn/images/lol/act/img/skin/big_a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg"
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_a6a344cf-35b8-49a1-a9c9-6bb95951bb51.jpg",
+				"https://game.gtimg.cn/images/lol/act/img/skin/big_12e02271-2e62-48a7-b0af-eb2b8a53db7f.jpg"
 			],
 			"wallpaperMobileskinUrl":[]
 		},
